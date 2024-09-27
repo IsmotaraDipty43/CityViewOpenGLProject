@@ -343,7 +343,6 @@ void timer_3rdcloud(int value) {
 }
 
 ///Boat animation---------------------------------------------------------------------------------------------------------
-
 float x_incboat = 0;
 int stateboat = Forwardboat;
 void timersecond(int value) {
